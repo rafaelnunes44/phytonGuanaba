@@ -1,5 +1,6 @@
 
 """
+TIPO DE DADOS
 bool   = (True/False)
 int    = (-4, 9 , 100 , -25)
 float  = (4.0, 3.2, -5.9)
